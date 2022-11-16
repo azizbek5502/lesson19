@@ -6,7 +6,7 @@
 }
 body{
     min-height: 100vh;
-    background: dodgerblue;
+    background:45deg, gold dodgerblue;
     display: flex;
     align-items: center;
     justify-content: center;
